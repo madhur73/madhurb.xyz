@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nikitavoloboev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nikitavoloboev.xyz
+  * I am nikitavoloboev (https://keybase.io/nikitavoloboev) on keybase.
+  * I have a public key ASCS3CLRACWMae8bi5qgMQ9ftMHyUnxUTn-nO6Iajn1NGwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101de18f4ea487580929e555c687b16b115cdec182c272275cfcb7c89408aa4719d0a",
+      "host": "keybase.io",
+      "kid": "012092dc22d100258c69ef1b8b9aa0310f5fb4c1f2527c544e7fa73ba21a8e7d4d1b0a",
+      "uid": "0480aa385878f5591d023bf7e80b8619",
+      "username": "nikitavoloboev"
+    },
+    "merkle_root": {
+      "ctime": 1511274337,
+      "hash": "b32b1ed699bdece8fec037a85596dfff2fe4288afc9cb352d8b54b1b14523c9414cc730c43b835bc1b13b753e700a307283928a98347d2d77a48642bfb50f689",
+      "hash_meta": "2d26f26626f2f5f1b325156140c9b740212daaca048c1ab95a8f6bcdf143dcc3",
+      "seqno": 1725891
+    },
+    "service": {
+      "hostname": "nikitavoloboev.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1511274356,
+  "expire_in": 504576000,
+  "prev": "13ed80e1a6cc372fad4dd2dd20bde244486720c3ae634743d0ac7235b933b003",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgktwi0QAljGnvG4uaoDEPX7TB8lJ8VE5/pzuiGo59TRsKp3BheWxvYWTFA1F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGUxOGY0ZWE0ODc1ODA5MjllNTU1YzY4N2IxNmIxMTVjZGVjMTgyYzI3MjI3NWNmY2I3Yzg5NDA4YWE0NzE5ZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTJkYzIyZDEwMDI1OGM2OWVmMWI4YjlhYTAzMTBmNWZiNGMxZjI1MjdjNTQ0ZTdmYTczYmEyMWE4ZTdkNGQxYjBhIiwidWlkIjoiMDQ4MGFhMzg1ODc4ZjU1OTFkMDIzYmY3ZTgwYjg2MTkiLCJ1c2VybmFtZSI6Im5pa2l0YXZvbG9ib2V2In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTExMjc0MzM3LCJoYXNoIjoiYjMyYjFlZDY5OWJkZWNlOGZlYzAzN2E4NTU5NmRmZmYyZmU0Mjg4YWZjOWNiMzUyZDhiNTRiMWIxNDUyM2M5NDE0Y2M3MzBjNDNiODM1YmMxYjEzYjc1M2U3MDBhMzA3MjgzOTI4YTk4MzQ3ZDJkNzdhNDg2NDJiZmI1MGY2ODkiLCJoYXNoX21ldGEiOiIyZDI2ZjI2NjI2ZjJmNWYxYjMyNTE1NjE0MGM5Yjc0MDIxMmRhYWNhMDQ4YzFhYjk1YThmNmJjZGYxNDNkY2MzIiwic2Vxbm8iOjE3MjU4OTF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibmlraXRhdm9sb2JvZXYueHl6IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MTEyNzQzNTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMTNlZDgwZTFhNmNjMzcyZmFkNGRkMmRkMjBiZGUyNDQ0ODY3MjBjM2FlNjM0NzQzZDBhYzcyMzViOTMzYjAwMyIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAqHB4KLRsMpaYbAGY3oqUdR56yu8mA/3iAPxwyy9BkdPYjlowo7idxvPX8Nem0gu2IsfW+vA08KuPstcq+b+kEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgPlIP+D88z7V5h7+d/Tjo03ppioPQ8x9K2pYF1+/H1rujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nikitavoloboev
+
+==================================================================
