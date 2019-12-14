@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madhur Biyani</title>
+    <link>https://madhurb.xyz/</link>
+    <description>Recent content on Madhur Biyani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://madhurb.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://madhurb.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://madhurb.xyz/about/</guid>
+      <description>👋 I love making and sharing things I have built with the world.
+📚 Building Learn Anything, an open source website for learning any topic as fast as possible.
+🖋 I love writing. You can read all the articles I wrote on Medium or take a look through my personal wiki where I share everything I know.
+🌐 I share my thoughts on Twitter. I share my code on GitHub and you can see photos I took on Instagram.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://madhurb.xyz/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://madhurb.xyz/projects/</guid>
+      <description>I am currently making Learn Anything, sharing things, writing a wiki and blog and building ideas.
+My present and past projects include:
+Learn Anything Learn Anything is an open source website to learn any topic as fast as possible.
+I genuinely believe it can change the world for the better. Imagine a world where everyone knows what Internet is, what privacy is, what programming and computer science is and how to make computers do awesome things for you.</description>
+    </item>
+    
+    <item>
+      <title>Likes</title>
+      <link>https://madhurb.xyz/likes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://madhurb.xyz/likes/</guid>
+      <description>Animals Becoming conscious of the impact my decisions have on this planet and other living beings and eating only whole food plant based diet has been one of the best decisions I made thus far in my life.
+I think everyone has a choice nowadays of what they can eat and animal suffering can be avoided.
+Sharing I love sharing things I make and I am open about most things I do and like.</description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>https://madhurb.xyz/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://madhurb.xyz/now/</guid>
+      <description>I am currently working on making things and pursuing Masters in Computer Science at New York University in New York City.
+Say 👋 if you are around.</description>
+    </item>
+    
+  </channel>
+</rss>
